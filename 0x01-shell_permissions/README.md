@@ -14,3 +14,5 @@ Adds execute permission to the owner and the group owner, and read permission to
 The James Bond script
 
 The only John Doe
+
+Sets hello.permissions = olleh.permissions
