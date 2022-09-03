@@ -19,3 +19,5 @@ Changes the working directory to the previous one
 12-file_type
 
 14-copy_html
+
+Creates a symbolic link to /bin/ls named __ls__
