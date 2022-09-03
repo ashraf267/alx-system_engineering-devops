@@ -11,3 +11,5 @@
 5-listfilesdigitonly: displays current directory contents with long list, numeric user and group IDs, hidden files (starting with .)
 
 6-firstdirectory: creates a directory named my_first_directory in file/tmp directory.
+
+Changes the working directory to the previous one
