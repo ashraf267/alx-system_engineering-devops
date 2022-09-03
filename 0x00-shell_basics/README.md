@@ -15,3 +15,5 @@
 Changes the working directory to the previous one
 
 11-lists
+
+12-file_type
