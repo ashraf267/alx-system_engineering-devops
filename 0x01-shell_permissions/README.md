@@ -18,3 +18,4 @@ The only John Doe
 Sets hello.permissions = olleh.permissions
 
 Adds execution permission to all subdir of the current dir for the owner, the group owner and all other users. Regular files should not be changed
+Creates a directory called my_dir with permissions 751 in the working directory
