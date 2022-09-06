@@ -15,3 +15,5 @@ Displays the 10 newest files in the current directory
 Displays the third line of the file iacta
 
 Abeg check the file name on my github. Thanks.
+
+Deletes all regualr .js files
