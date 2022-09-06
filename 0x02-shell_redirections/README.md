@@ -17,3 +17,5 @@ Displays the third line of the file iacta
 Abeg check the file name on my github. Thanks.
 
 Deletes all regualr .js files
+
+Prints only words that appear exactly once
