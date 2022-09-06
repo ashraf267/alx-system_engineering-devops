@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lat | head -10
+ls -St | head -10
