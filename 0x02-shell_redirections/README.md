@@ -21,3 +21,5 @@ Deletes all regualr .js files
 Prints only words that appear exactly once
 
 Display lines containing the pattern root from the file /etc/passwd
+
+Display the number of words that contain the pattern bin in the file /etc/passwd
