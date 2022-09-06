@@ -9,3 +9,5 @@ Display the last 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
 
 Writes into the file ls_cwd_content the result of command ls -la
+
+Displays the 10 newest files in the current directory
