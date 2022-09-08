@@ -27,3 +27,5 @@ Display the number of words that contain the pattern bin in the file /etc/passwd
 Counts the number of dirs and sub-dirs in the current dir
 
 9-duplicate_last_line
+
+16-whatsnext
